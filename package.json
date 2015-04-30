@@ -1,0 +1,13 @@
+{
+  "name": "nodebin",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "keywords": [],
+  "author": "Gavin Engel <gavin@engel.com>",
+  "license": "MIT",
+  "dependencies": {
+    "extract-cli": "0.0.9",
+    "grunt-cli": "^0.1.13"
+  }
+}
