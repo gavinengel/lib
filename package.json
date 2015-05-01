@@ -8,6 +8,8 @@
   "license": "MIT",
   "dependencies": {
     "extract-cli": "0.0.9",
-    "grunt-cli": "^0.1.13"
+    "forever": "^0.14.1",
+    "grunt-cli": "^0.1.13",
+    "pm2": "^0.12.13"
   }
 }
