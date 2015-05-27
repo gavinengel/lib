@@ -14,13 +14,15 @@
     "extract-cli": "*",
     "forever": "0.*",
     "grunt-cli": "0.*",
+    "harp": "^0.17.0",
     "jade": "1.*",
     "livereload": "0.*",
-    "pm2": "0.*",
-    "loopback-boot": "2.*",
-    "loopback-datasource-juggler": "2.*",
     "loopback": "2.*",
-    "strongloop": "4.*",
-    "loopback-connector-mongodb": "1.*"
+    "loopback-boot": "2.*",
+    "loopback-connector-mongodb": "1.*",
+    "loopback-datasource-juggler": "2.*",
+    "loopback-explorer": "^1.7.2",
+    "pm2": "0.*",
+    "strongloop": "4.*"
   }
 }
