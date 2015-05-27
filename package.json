@@ -1,11 +1,15 @@
 {
   "name": "nodebin",
   "version": "0.0.0",
-  "description": "",
+  "description": ".",
   "main": "index.js",
   "keywords": [],
   "author": "Gavin Engel <gavin@engel.com>",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/gavinengel/nodebin.git"
+  },
   "dependencies": {
     "extract-cli": "*",
     "forever": "0.*",
