@@ -1,5 +1,5 @@
 {
-  "name": "nodebin",
+  "name": "lib",
   "version": "0.0.0",
   "description": ".",
   "main": "index.js",
@@ -8,10 +8,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-  },
-  "dependencies": {
-    "bower": "^1.4.1",
-    "extract-cli": "0.*",
+    "url" : "https://github.com/gavinengel/lib.git"
   },
   "dependencies": {
     "extract-cli": "*",
@@ -27,6 +24,6 @@
     "loopback-datasource-juggler": "2.*",
     "loopback-explorer": "^1.7.2",
     "pm2": "0.*",
-    "strongloop": "4.*"
+    "strongloop": "*"
   }
 }
