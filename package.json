@@ -8,7 +8,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url" : "https://github.com/gavinengel/lib.git"
+    "url": "https://github.com/gavinengel/lib.git"
   },
   "dependencies": {
     "extract-cli": "*",
@@ -17,12 +17,13 @@
     "harp": "^0.17.0",
     "jade": "1.*",
     "livereload": "0.*",
-    "npm": "^2.11.0",
     "loopback": "2.*",
     "loopback-boot": "2.*",
     "loopback-connector-mongodb": "1.*",
     "loopback-datasource-juggler": "2.*",
     "loopback-explorer": "^1.7.2",
+    "ngrok": "0.*",
+    "npm": "*",
     "pm2": "0.*",
     "strongloop": "*"
   }
